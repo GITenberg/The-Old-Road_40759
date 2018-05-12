@@ -1,0 +1,38 @@
+_repo: The-Old-Road_40759
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hyde, William Henry
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '33981'
+    url: http://www.gutenberg.org/2009/agents/33981
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: On the road and the fascination of antiquity -- The theory of the Old
+  Road -- The exploration of the Road, Winchester to ... Canterbury.
+gutenberg_issued: '2012-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcsh 'England -- Antiquities'
+- !lcc 'DA'
+- !lcsh 'Roads -- Great Britain'
+title: The Old Road
+url: http://www.gutenberg.org/ebooks/40759
